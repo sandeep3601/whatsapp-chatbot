@@ -1,1 +1,0 @@
-pyautogui.dragTo(x=650, y=145, duration=1)

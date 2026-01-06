@@ -22,6 +22,10 @@ This project uses Python and the Ollama framework to create an intelligent chat 
 
 Sandeep-AI-Assistant/
 ├── client.py          # Ollama chat client
+<br>
 ├── main.py           # Main program - automated chat assistant
+<br>
 ├── temprary_work.py   # Mouse position debugging tool
+<br>
 └── README.md         # Project documentation
+<br>
